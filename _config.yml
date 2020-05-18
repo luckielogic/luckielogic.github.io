@@ -1,7 +1,0 @@
-	# Name of website
-	title: Luckie Logic
-	description: A collection of Lucky's everyday thoughts
-	author: Anson
-	markdown: kramdown
-	permalink: /blog/:year/:month/:day/:title
-	timezone: "America/Vancouver"
