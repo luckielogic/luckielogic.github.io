@@ -12,7 +12,7 @@ function getQuote() {
   }, {
     quote: "I don't play with my toys unless my owners have guests over. It makes my owners look like they don't buy me enough toys. "
   }, {
-    quote: "I really want the balls that other dogs have, but I don't want them anymore after my owner buys them for me. "
+    quote: "I really want the balls that other dogs have, but after my owner buys them for me, I don't want them anymore. "
   }, {
     quote: "I sleep with my tongue out, but if you try to take a picture of me, I'll reset to a normal face. "
   }, {
