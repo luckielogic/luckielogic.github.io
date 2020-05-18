@@ -46,8 +46,13 @@ ul.posts li {
 }
 
 #quoteContainer { 
-    width: 50%; 
-    position: relative; 
-    margin: auto; 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     font-style: oblique; 
+}
+
+#buttonContainer {
+    text-align: center; 
 }
