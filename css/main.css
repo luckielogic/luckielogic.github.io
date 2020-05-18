@@ -65,7 +65,8 @@ ul.posts li {
 }
 
 .about {
-    font-size: 1em; 
+    font-size: 1.2em; 
+    line-height: 1.4em;
     color: #9c9c9c;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
