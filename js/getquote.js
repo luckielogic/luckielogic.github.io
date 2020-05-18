@@ -38,7 +38,7 @@ function getQuote() {
   }, {
     quote: "I don't really want to swim out to get the stick. I will let other dogs do that, then steal the stick on the shore."
   }, {
-    quote: "I like to be part of the husky pack at the dog park, but they think I look like a lab."
+    quote: "I like to be part of the husky pack at the dog park, but they think that I look like a lab."
   }, {
     quote: "I like to hang out with my best friend, Cooper, but only at a distance of 4' away."
   }, ];
