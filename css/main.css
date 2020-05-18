@@ -51,6 +51,8 @@ ul.posts li {
     left: 50%;
     transform: translate(-50%, -50%);
     font-style: oblique; 
+    text-align: center; 
+    text-transform: none; 
 }
 
 #buttonContainer {
