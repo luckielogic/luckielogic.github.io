@@ -6,7 +6,7 @@ function getQuote() {
   }, {
     quote: "I like to stare down cats, because it helps me to imagine their flavor."
   }, {
-    quote: "Sometimes my owners allow me to jump on their bed. That means that when they're not looking, I can allow myself to jump on the bed."
+    quote: "Sometimes my owners allow me to jump on their bed. That means that when they are not looking, I can allow myself to jump on the bed."
   }, {
     quote: "My owners tell me not to eat grass. That means that I can eat grass when they're not looking. "
   }, {
