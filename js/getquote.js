@@ -4,7 +4,7 @@ function getQuote() {
   var quotes=[{
   quote: "Feels like 55 degrees F? That's too hot! I must stick my tongue out during the entire walk. "
   }, {
-    quote: "I like to stare down cats, because it helps me to imagine their flavor."
+    quote: "I like to stare down cats, because it helps me to imagine what flavor they are."
   }, {
     quote: "Sometimes my owners allow me to jump on their bed. That means that when they are not looking, I can allow myself to jump on the bed."
   }, {
@@ -22,11 +22,21 @@ function getQuote() {
   }, {
     quote: "A day spent moving is a day of energy wasted."
   }, {
-    quote: "People often ask how old I am, expecting to confirm that I am an old man, and are surprised to learn that I am only 6."
+    quote: "People often ask how old I am, expecting to confirm that I am an old man. They are surprised to learn that I am only 6."
   }, {
     quote: "Sometimes I reverse-sneeze due to my allergies. It is a thing; look it up."
   }, {
     quote: "I get really excited to go to the dog park, but when I am there, I want everyone to leave me alone."
+  }, {
+    quote: "I spend lots of time looking for the steepest hill and tallest grass to poop on. This makes it more fun for my owner to pick up."
+  }, {
+    quote: "If we hike together, I will bark a lot to show you which direction we all need to be going. (I am in charge.)"
+  }, {
+    quote: "I can frequently be heard sighing deeply from the other side of the room, contemplating my past life and other thoughtful subjects."
+  }, {
+    quote: "I know many tricks, but I only want to do them if there is food."
+  }, {
+    quote: "I don't really want to swim out to get the stick. I will let other dogs do that, then steal the stick."
   }, {
     quote: "I like to hang out with my best friend, Cooper, but only at a distance of 4' away."
   }, ];
