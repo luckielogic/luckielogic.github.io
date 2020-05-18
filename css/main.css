@@ -49,4 +49,5 @@ ul.posts li {
     width: 50%; 
     position: relative; 
     margin: auto; 
+    font-style: oblique; 
 }
