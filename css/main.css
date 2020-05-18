@@ -57,6 +57,7 @@ ul.posts li {
     font-size: 1.8em; 
     text-align: center; 
     text-transform: none; 
+    text-shadow: 1px 1px 4px #000000;
 }
 
 #buttonContainer {
