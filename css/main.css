@@ -63,3 +63,9 @@ ul.posts li {
 #buttonContainer {
     text-align: center; 
 }
+
+.about {
+    font-size: 1em; 
+    color: #9c9c9c;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
