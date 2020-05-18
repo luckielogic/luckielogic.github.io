@@ -1,0 +1,5 @@
+title: Luckie Logic
+description: A collection of Lucky's everyday musings
+author: Anson 
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
