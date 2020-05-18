@@ -69,4 +69,5 @@ ul.posts li {
     line-height: 1.4em;
     color: #9c9c9c;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-align: justify;
 }
