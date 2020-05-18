@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Luckie Logic
-permalink: /about/
+filename: about.md
 ---
 
 test
