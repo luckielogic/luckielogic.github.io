@@ -6,5 +6,3 @@ function randomBackground()
   document.body.background = 'http://i.imgur.com/UI7WfVy.gif';
 //document.body.style.backgroundRepeat = "no-repeat";// Background repeat
 }
-
-randomBackground();
