@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-var totalCount = 1;
+var totalCount = 2;
 function randomBackground() 
 {
 var num = Math.ceil( Math.random() * totalCount );
