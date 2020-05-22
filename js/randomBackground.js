@@ -1,3 +1,5 @@
+$(document).ready(function() {
+
 var totalCount = 2;
 function randomBackground() 
 {
@@ -8,3 +10,5 @@ document.body.style.backgroundSize = "cover";
 }
 
 randomBackground();
+  
+}); //end of document.ready
