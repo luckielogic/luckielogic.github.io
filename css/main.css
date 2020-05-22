@@ -47,7 +47,7 @@ ul.posts li {
     list-style: none;
 }
 
-p.about {
+p.about, #post {
     font-size: 1.2em; 
     line-height: 1.4em;
     color: #9c9c9c;
