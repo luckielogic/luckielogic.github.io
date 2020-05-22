@@ -3,7 +3,9 @@ $(document).ready(function() {
 var images = ['1.jpg', '2.jpg'];
 
 $('html').css({'background-image': 'url(bgimages/' + images[Math.floor(Math.random() * images.length)] + ')'});
- $('html').css('background-repeat', 'no-repeat');
+$('html').css('background-repeat', 'no-repeat');
 $('html').css('background-size', 'cover');
+$('html').css('background-color', '#2b2b2b');  
+  
   
 }); //end of document.ready
