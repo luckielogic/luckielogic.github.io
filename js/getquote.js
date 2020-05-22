@@ -12,7 +12,7 @@ function getQuote() {
   }, {
     quote: "I don't play with my toys unless my owners have guests over. It makes my owners look like they don't buy me enough toys. "
   }, {
-    quote: "I really want the special balls that other dogs have, but after my owner buys them for me, I don't want them anymore. "
+    quote: "I want the special balls that other dogs have, but after my owner buys them for me, I don't want them anymore. "
   }, {
     quote: "I sleep with my tongue out, but if you try to take a picture of me, I'll reset to a normal face. "
   }, {
@@ -22,7 +22,7 @@ function getQuote() {
   }, {
     quote: "A day spent moving is a day of energy wasted."
   }, {
-    quote: "People often ask how old I am, expecting to confirm that I am an old man. They are surprised to learn that I am only 6."
+    quote: "People often ask how old I am, expecting to confirm that I am an old man. They are surprised to learn that I am only six."
   }, {
     quote: "Sometimes I reverse-sneeze due to my allergies. It is a thing; look it up."
   }, {
@@ -32,13 +32,15 @@ function getQuote() {
   }, {
     quote: "If we hike together, I will bark very loudly to show which direction we all need to be going. (I am in charge.)"
   }, {
-    quote: "I can frequently be heard sighing deeply from the other side of the room, contemplating my past life and other thoughtful subjects."
+    quote: "When my owners pet me, I am doing them a favor. They want to pet me more than I want to be pet."
   }, {
     quote: "I know many tricks, but I only want to do them if there is food."
   }, {
-    quote: "I don't really want to swim out to get the stick. I will let other dogs do that, then steal the stick on the shore."
+    quote: "I don't want to swim out to get the stick. I will let other dogs do that, then steal the stick."
   }, {
     quote: "I like to be part of the husky pack at the dog park, but they think that I look like a lab."
+  }, {
+    quote: "These are nice flowers. *pees on them*"
   }, {
     quote: "I like to hang out with my best friend, Cooper, but only at a distance of 4' away."
   }, ];
