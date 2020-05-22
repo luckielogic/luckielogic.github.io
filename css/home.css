@@ -37,7 +37,7 @@ footer {
 #quoteContainer { 
     position: fixed;
     width: 80%; 
-    top: 50%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-style: oblique; 
