@@ -54,3 +54,14 @@ p.about, p.post {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     text-align: justify;
 }
+@media only screen and (max-device-width: 480px) {
+    h1 {
+        font-size: 5em;
+    }
+    #quoteContainer { 
+        font-size: 3em; 
+    }
+    nav ul li {
+        font-size: 3em; 
+    }
+}
