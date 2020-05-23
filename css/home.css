@@ -49,14 +49,12 @@ footer {
     text-transform: none; 
     text-shadow: 0px 0px 3px #000000;
 }
-
 #buttonContainer {
     text-align: center; 
 }
 @media only screen and (max-device-width: 480px) {
     h1 {
         font-size: 5em;
-        text-align: center;
     }
     #quoteContainer { 
         font-size: 2em; 
@@ -64,7 +62,7 @@ footer {
     nav ul li {
         font-size: 3em; 
     }
-    p, ul, div {
+    #wrapper {
         text-align: center;
     }
 }
