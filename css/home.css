@@ -55,7 +55,7 @@ footer {
 }
 @media only screen and (max-device-width: 480px) {
     h1 {
-        font-size: 4em;
+        font-size: 5em;
     }
     #quoteContainer { 
         font-size: 3em; 
