@@ -53,21 +53,22 @@ footer {
     text-align: center; 
 }
 @media only screen and (max-device-width: 480px) {
-    h1 {
-        font-size: 5em;
-        width: 100%; 
+    #wrapper {
         text-align: center;
-        display: inline;
+        width: 100%; 
+    }
+    h1 {
+        position: fixed; 
+        top: 10%; 
+        left: 50%; 
+        transform: translate(-50%, 0%); 
+        font-size: 5em;
     }
     #quoteContainer { 
         font-size: 2em; 
     }
     nav ul li {
         font-size: 3em; 
-        width: 100%; 
-    }
-    #wrapper {
-        text-align: center;
         width: 100%; 
     }
 }
