@@ -67,11 +67,15 @@ footer {
     #quoteContainer { 
         font-size: 2em; 
     }
+    .navigate { 
+        width: 100%; 
+        position: relative; 
+    }
     nav ul li {
         font-size: 3em; 
     }
-    nav ul {
-        position: fixed; 
+    .navigate ul {
+        position: absolute; 
         top: 5%; 
         left: 50%; 
         transform: translate(-50%, 0%); 
