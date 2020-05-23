@@ -44,7 +44,9 @@ function getQuote() {
   }, {
     quote: "Every nap must be followed by a Big Stretch."
   }, {
-    quote: "The vet is one of my favorite places, because it smells like cats and other dogs."
+    quote: "The vet is one of my favorite places, because it smells like other dogs there."
+  }, {
+    quote: "If I roll on my back, hooman is 80% likely to keep petting me."
   }, {
     quote: "I like to hang out with my best friend, Cooper, but only at a distance of 4' away."
   }, ];
