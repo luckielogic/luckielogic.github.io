@@ -57,6 +57,7 @@ footer {
         font-size: 5em;
         width: 100%; 
         text-align: center;
+        display: inline;
     }
     #quoteContainer { 
         font-size: 2em; 
