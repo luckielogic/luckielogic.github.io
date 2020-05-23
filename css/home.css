@@ -1,11 +1,3 @@
-@media only screen and (max-device-width: 480px) {
-    h1 {
-        font-size: 4em;
-    }
-    #quoteContainer { 
-        font-size: 3em; 
-    }
-}
 body {
     margin: 20px;
     width: 70%;
@@ -60,4 +52,12 @@ footer {
 
 #buttonContainer {
     text-align: center; 
+}
+@media only screen and (max-device-width: 480px) {
+    h1 {
+        font-size: 4em;
+    }
+    #quoteContainer { 
+        font-size: 3em; 
+    }
 }
