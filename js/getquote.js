@@ -42,7 +42,7 @@ function getQuote() {
   }, {
     quote: "These are nice flowers. *pees on them*"
   }, {
-    quote: "Every nap must be followed by a Big Stretch."
+    quote: "Every sleep must be followed by a Big Stretch."
   }, {
     quote: "The vet is one of my favorite places, because it smells like other dogs there."
   }, {
