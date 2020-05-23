@@ -56,11 +56,15 @@ footer {
 @media only screen and (max-device-width: 480px) {
     h1 {
         font-size: 5em;
+        text-align: center;
     }
     #quoteContainer { 
-        font-size: 3em; 
+        font-size: 2em; 
     }
     nav ul li {
         font-size: 3em; 
+    }
+    p, ul, div {
+        text-align: center;
     }
 }
