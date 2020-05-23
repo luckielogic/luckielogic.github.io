@@ -60,4 +60,7 @@ footer {
     #quoteContainer { 
         font-size: 3em; 
     }
+    nav {
+        font-size: 2em; 
+    }
 }
