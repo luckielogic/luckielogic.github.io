@@ -6,7 +6,7 @@ function getQuote() {
   }, {
     quote: "I like to stare down cats, because it helps me to imagine what flavor they are."
   }, {
-    quote: "Sometimes my owners allow me to jump on their bed. That means that when they are not looking, I can allow myself to jump on the bed."
+    quote: "Sometimes my owners allow me to jump on the bed. That means that when they are not looking, I can allow myself to jump on the bed."
   }, {
     quote: "My owners tell me not to eat grass. That means that I can eat grass when they are not looking. "
   }, {
@@ -41,6 +41,10 @@ function getQuote() {
     quote: "I like to be part of the husky pack at the dog park, but they think that I look like a lab."
   }, {
     quote: "These are nice flowers. *pees on them*"
+  }, {
+    quote: "Every nap must be followed by a Big Stretch."
+  }, {
+    quote: "The vet is one of my favorite places, because it smells like cats and other dogs."
   }, {
     quote: "I like to hang out with my best friend, Cooper, but only at a distance of 4' away."
   }, ];
