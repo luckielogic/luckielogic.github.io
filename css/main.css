@@ -54,6 +54,7 @@ ul.posts li {
     font-size: 1.2em; 
     line-height: 1.4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    text-align: justify;
 }
 p.about, .postContainer {
     font-size: 1.2em; 
@@ -69,7 +70,7 @@ p.about, .postContainer {
         background: #2b2b2b;
     }
     #wrapper {
-        width: 90%; 
+        width: 80%; 
         padding: 60px;
     }
     h1 {
