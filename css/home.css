@@ -69,4 +69,7 @@ footer {
     .navigate { 
         text-align: center;
     }
+    .navigate a{
+        font-size: 3em;
+}
 }
