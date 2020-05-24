@@ -9,6 +9,10 @@ nav, footer {
     list-style: none;
     font-weight: bold;
 }
+.navigate a{
+    padding-right: 20px;
+    font-size: 1em;
+}
 a {
     text-decoration: none;
     color: #b9b9b9;
