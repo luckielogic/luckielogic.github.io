@@ -68,9 +68,12 @@ footer {
     #quoteContainer { 
         font-size: 2em; 
     }
-    .navigate { 
+    #navigate { 
         width: 100%; 
-        position: relative; 
+        position: fixed; 
+        top: 5%; 
+        left: 50%; 
+        transform: translate(-50%, 0%); 
     }
     nav ul {
         display: inline-block;
@@ -78,12 +81,5 @@ footer {
     }
     nav ul li {
         font-size: 3em; 
-    }
-    .navigate ul {
-        position: absolute; 
-        top: 5%; 
-        left: 50%; 
-        transform: translate(-50%, 0%); 
-        width: 100%;
     }
 }
