@@ -1,6 +1,6 @@
 body {
     margin: 50px;
-    width: 80%;
+    width: 60%;
     background: #2b2b2b;
 }
 nav, footer {
@@ -47,7 +47,7 @@ ul.posts li {
     list-style: none;
 }
 .likes {
-    width: 80%; 
+    width: 100%; 
     background: #e6e6e6; 
     color: #2b2b2b; 
     padding: 10px;
