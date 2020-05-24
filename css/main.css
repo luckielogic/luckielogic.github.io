@@ -70,10 +70,11 @@ p.about, .postContainer {
     }
     #wrapper {
         text-align: center;
-        width: 100%; 
+        width: 80%; 
+        padding: 20px;
     }
     h1 {
-        font-size: 3em;
+        font-size: 4em;
     }
     .navigate { 
         text-align: center;
