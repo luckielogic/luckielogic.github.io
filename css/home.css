@@ -19,6 +19,7 @@ a {
 }
 a:hover {
     text-decoration: none;
+    color: #dadada;
 }
 h1 {
     font: 2em;
@@ -68,8 +69,10 @@ footer {
     }
     .navigate { 
         text-align: center;
+        width: 100%; 
+        border: 1px solid red;
     }
     .navigate a{
         font-size: 3em;
-}
+    }
 }
