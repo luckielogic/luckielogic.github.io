@@ -1,6 +1,6 @@
 body {
     margin: 20px;
-    width: 70%;
+    width: 100%;
 }
 html {
     min-height: 100%;
@@ -74,5 +74,7 @@ footer {
     }
     .navigate a{
         font-size: 3em;
+        padding-left: 20px; 
+        padding-right: 20px;
     }
 }
