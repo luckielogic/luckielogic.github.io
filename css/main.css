@@ -51,8 +51,11 @@ ul.posts li {
     background: #e6e6e6; 
     color: #2b2b2b; 
     padding: 20px;
+    font-size: 1.2em; 
+    line-height: 1.4em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p.about, .postContainer, .likes {
+p.about, .postContainer {
     font-size: 1.2em; 
     line-height: 1.4em;
     color: #9c9c9c;
