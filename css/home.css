@@ -10,9 +10,8 @@ nav, footer {
     font-weight: bold;
 }
 .navigate a{
-    padding-left: 10px; 
-    padding-riht: 10px;
-    font-size: 1.5em;
+    padding-right: 20px;
+    font-size: 1.2em;
 }
 a {
     text-decoration: none;
