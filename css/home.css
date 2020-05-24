@@ -72,6 +72,10 @@ footer {
         width: 100%; 
         position: relative; 
     }
+    nav ul {
+        display: inline-block;
+        list-style-type: none;
+    }
     nav ul li {
         font-size: 3em; 
     }
