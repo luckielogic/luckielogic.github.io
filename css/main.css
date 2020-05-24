@@ -58,7 +58,7 @@ ul.posts li {
 }
 p.about, .postContainer {
     font-size: 1.2em; 
-    line-height: 1.5em;
+    line-height: 1.6em;
     color: #9c9c9c;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     text-align: justify;
@@ -90,10 +90,12 @@ p.about, .postContainer {
         width: 95%; 
         background: #e6e6e6; 
         color: #2b2b2b; 
-        padding: 20px;
+        padding: 30px;
         font-size: 1.3em; 
-        line-height: 1.4em;
+        line-height: 2em;
         font-family:'Rockwell';
+        margin-top: 20px; 
+        margin-bottom: 20px;
     }
     p.about, .postContainer {
         font-size: 1.3em; 
