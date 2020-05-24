@@ -1,6 +1,6 @@
 body {
-    margin: 20px;
-    width: 95%;
+    margin: 50px;
+    width: 80%;
     background: #2b2b2b;
 }
 nav, footer {
@@ -63,6 +63,11 @@ p.about, .postContainer {
     text-align: justify;
 }
 @media only screen and (max-device-width: 480px) {
+    body {
+        margin: 20px;
+        width: 95%;
+        background: #2b2b2b;
+    }
     #wrapper {
         text-align: center;
         width: 100%; 
