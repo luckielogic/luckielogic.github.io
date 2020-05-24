@@ -5,15 +5,9 @@ body {
 html {
     min-height: 100%;
 }
-nav ul, footer ul {
+nav, footer {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
     font-weight: bold;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
 }
 a {
     text-decoration: none;
@@ -68,19 +62,12 @@ footer {
     #quoteContainer { 
         font-size: 2em; 
     }
-    #navigate { 
-        width: 100%; 
-        position: fixed; 
-        top: 5%; 
-        left: 50%; 
-        transform: translate(-50%, 0%); 
+    .navigate a{
+        padding-left: 10px; 
+        padding-riht: 10px;
+    }
+
+    .navigate { 
         text-align: center;
-    }
-    nav ul {
-        display: inline-block;
-        list-style-type: none;
-    }
-    nav ul li {
-        font-size: 3em; 
     }
 }
