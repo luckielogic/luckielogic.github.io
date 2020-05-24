@@ -46,8 +46,13 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-
-p.about, .postContainer {
+.likes {
+    width: 80%; 
+    background: #e6e6e6; 
+    color: #2b2b2b; 
+    padding: 20px;
+}
+p.about, .postContainer, .likes {
     font-size: 1.2em; 
     line-height: 1.4em;
     color: #9c9c9c;
