@@ -1,6 +1,6 @@
 body {
     margin: 20px;
-    width: 100%;
+    width: 90%;
 }
 html {
     min-height: 100%;
@@ -58,7 +58,7 @@ footer {
     }
     h1 {
         position: fixed; 
-        top: 10%; 
+        top: 7%; 
         left: 50%; 
         transform: translate(-50%, 0%); 
         font-size: 6em;
@@ -70,7 +70,7 @@ footer {
     .navigate { 
         text-align: center;
         width: 100%; 
-        border: 1px solid red;
+        margin-top: 3%;
     }
     .navigate a{
         font-size: 3em;
