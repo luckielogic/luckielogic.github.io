@@ -9,6 +9,11 @@ nav, footer {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-weight: bold;
 }
+.navigate a{
+    padding-left: 10px; 
+    padding-riht: 10px;
+    font-size: 1.5em;
+}
 a {
     text-decoration: none;
     color: #b9b9b9;
@@ -17,7 +22,7 @@ a:hover {
     text-decoration: none;
 }
 h1 {
-    font-size: 2em;
+    font: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #62c275; 
 }
@@ -62,11 +67,6 @@ footer {
     #quoteContainer { 
         font-size: 2em; 
     }
-    .navigate a{
-        padding-left: 10px; 
-        padding-riht: 10px;
-    }
-
     .navigate { 
         text-align: center;
     }
