@@ -92,8 +92,9 @@ p.about, .postContainer {
         color: #2b2b2b; 
         padding: 30px;
         font-size: 1.3em; 
-        line-height: 2em;
+        line-height: 4em;
         font-family:'Playfair Display';
+        position: relative; 
         margin-top: 20px; 
         margin-bottom: 20px;
     }
