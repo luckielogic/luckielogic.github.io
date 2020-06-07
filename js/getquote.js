@@ -48,6 +48,8 @@ function getQuote() {
   }, {
     quote: "If I roll on my back, hooman is 80% likely to keep petting me."
   }, {
+    quote: "The mountain is like an all-you-can-eat grass buffet."
+  }, {
     quote: "I like to hang out with my best friend, Cooper, but only at a distance of 4' away."
   }, ];
     
