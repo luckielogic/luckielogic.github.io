@@ -50,6 +50,8 @@ function getQuote() {
   }, {
     quote: "The mountain is like an all-you-can-eat grass buffet."
   }, {
+    quote: "Every season is shedding season."
+  }, {
     quote: "I like to hang out with my best friend, Cooper, but only at a distance of 4' away."
   }, ];
     
